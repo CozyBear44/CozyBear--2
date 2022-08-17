@@ -1,0 +1,3 @@
+net view
+net user /domain 
+net localgroup 'administrators'
